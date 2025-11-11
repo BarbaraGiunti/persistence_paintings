@@ -1,6 +1,6 @@
 # persistence_paintings
 
-This repo contains the three python script written by Barbara Giunti and Reetikaa Reddy Munnangi to perform the experiments in the paper "The Persistence of Painting Styles".
+This repo contains the three python scripts written by Barbara Giunti and Reetikaa Reddy Munnangi to perform the experiments in the paper "The Persistence of Painting Styles".
 The images used in the experiments are available on Zenodo, https://doi.org/10.5281/zenodo.17576493.
 
 Usage: 
